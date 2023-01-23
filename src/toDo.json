@@ -1,0 +1,25 @@
+{
+    "toDo": [
+        {
+            "id": 1,
+            "title": "Learn React",
+            "responsible": "Ivan",
+            "description": "Learn React and Redux",
+            "priority": "high"
+        },
+        {
+            "id": 2,
+            "title": "Learn Redux",
+            "responsible": "David",
+            "description": "Learn React and Redux",
+            "priority": "medium"
+        },
+        {
+            "id": 3,
+            "title": "Learn React-Redux",
+            "responsible": "Carlos",
+            "description": "Learn React and Redux",
+            "priority": "low"
+        }
+    ]
+}
